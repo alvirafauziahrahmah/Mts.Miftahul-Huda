@@ -1,0 +1,51 @@
+.jumbotronbg {
+ padding-top: 2rem;
+ background-color: #e2edff;
+}
+
+a.tbl-biru {
+  background: #3f72af;
+  border-radius: 20px;
+  margin-top: 20px;
+  padding: 15px 20px 15px 20px;
+  color: #ffffff;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+a.tbl-biru:hover {
+  background: #fc5185;
+  text-decoration: none;
+}
+
+#projects{
+    background-color: #e2edff; 
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fa-facebook {
+  background: #0450f3;
+  color: white;
+}
+
